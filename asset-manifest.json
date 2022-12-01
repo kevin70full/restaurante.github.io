@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurante.github.io/static/css/main.e636247a.css",
-    "main.js": "/restaurante.github.io/static/js/main.0a5865d4.js",
+    "main.js": "/restaurante.github.io/static/js/main.19764521.js",
     "static/js/787.aab8bd84.chunk.js": "/restaurante.github.io/static/js/787.aab8bd84.chunk.js",
     "static/media/fa-solid-900.svg": "/restaurante.github.io/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/restaurante.github.io/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -21,11 +21,11 @@
     "static/media/fa-regular-400.woff2": "/restaurante.github.io/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/restaurante.github.io/index.html",
     "main.e636247a.css.map": "/restaurante.github.io/static/css/main.e636247a.css.map",
-    "main.0a5865d4.js.map": "/restaurante.github.io/static/js/main.0a5865d4.js.map",
+    "main.19764521.js.map": "/restaurante.github.io/static/js/main.19764521.js.map",
     "787.aab8bd84.chunk.js.map": "/restaurante.github.io/static/js/787.aab8bd84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e636247a.css",
-    "static/js/main.0a5865d4.js"
+    "static/js/main.19764521.js"
   ]
 }
